@@ -1,6 +1,6 @@
-# CS50 Fall 2017
+# CS50
 
-https://cs50.harvard.edu
+Fall 2017
 
 ## Week 0
 
